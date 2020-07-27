@@ -1,35 +1,30 @@
-﻿<! DOCTYPE html>
+<!DOCTYPE html>
 <html>
+<head>
+<title>))))))))))</title>
+</head>
 
-  <head>
-    <title>))))))))))</title>
-  </head>
-
-  <body>
-    <h1 align="center"> <span style=color:yellow>Pasta la France</h1>
-    <p allign="center" span style=color:green> <em>Я не знаю,что это будет за рецепт.Но должно получится вкусное блюдо и красивый сайт.</em> </p>
-    <p allign="left"> Продукты для пасты: </p>
-
-    <form name="like">
-      <p> More better</br>
-      </p>
-      <input type="text" name="food" size=15/>
-      <p> Better</br>
-        <input type="text" name="food" size=15/>
-      </p>
-      <p>Как говорите?
-        <textarea name="text" cols=15 rows=15</p>
-          <p>КНОПОЧКА
-            <input type="submit" value=Отправить "</p>
-  </form>
-  
-  <h6>Макароны - 300 г</h6>
-    <h5>Том аты - 3 шт.</h5>
-    <h3>Базилик - 1 пучок </h3>
-    <h4>Острый красный перец -1/4 шт.</h4>
-    <h2>Пармезан - 50 г</h2>
-    <h2>Оливковое масло - 3 ст. л.</h2>
-    <h2>Бальзамический уксус - 2 ст. л.</h2> 
+ <body>
+ <h1 align="center"> <span "style"=color:yellow>Pasta la France</h1>
+ <p allign="center" span "style"=color:green> <em>Я не знаю,что это будет за рецепт.Но должно получится вкусное блюдо и красивый сайт.</em> </p>
+ <p allign="left"> Продукты для пасты: </p>
+<form name="like">
+<p> More better</br></p>
+<input type="text" name="food" size=15/>
+<p> Better</br>
+<input type="text" name="food" size=15/></p>
+<p>Кнопка?
+<textarea name="text" cols=15 rows=15</p>
+<p>КНОПОЧКА
+<input type="submit" value=Отправить "</p>
+</form>
+<h6>Макароны - 300 г</h6>
+<h5>Том аты - 3 шт.</h5>
+<h3>Базилик - 1 пучок </h3>
+<h4>Острый красный перец -1/4 шт.</h4>
+<h2>Пармезан - 50 г</h2>
+<h2>Оливковое масло - 3 ст. л.</h2>
+<h2>Бальзамический уксус - 2 ст. л.</h2> 
 <strong> <u> <font size="+6 "> Приготовление:</strong> </u> </font>
 
 <p>Томаты надрезать, опустить в кипяток, достать и снять кожуру, мелко нарезать.
@@ -41,9 +36,6 @@
 Славной трапезы! 
 
 <img arc="IMG_20190510_103519 "/>
-
-
-
 </body>
 
 </html>
