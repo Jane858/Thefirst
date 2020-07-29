@@ -13,8 +13,6 @@
 
     <form name="like">
 
-</form>
-
  <p>More better</p>
         <input type="text" name="food" size="15" />
         <p>Better</p>
